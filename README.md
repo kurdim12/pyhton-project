@@ -1,4 +1,5 @@
-# pyhton-project
+# pyhton-project 
+tic-tac-toe game.
 Description:
 This Python script implements a simple command-line Tic-Tac-Toe game. The game allows for two modes of play: single-player against a computer opponent or two-player mode. The players take turns making moves on a 3x3 game board, and the game continues until a player wins, the board is full (resulting in a draw), or the players choose to end the game.
 
